@@ -1,5 +1,23 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+body{
+    background-image: url("https://images.wallpaperscraft.com/image/single/interstellar_space_sky_129292_2780x2780.jpg");
+}
 h1 {
     color: red;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
 }
 img {
     width: 400px;
@@ -14,4 +32,6 @@ img {
 #spanId {
     font-size: 18px;
     margin: 50px;
+   
 }
+
